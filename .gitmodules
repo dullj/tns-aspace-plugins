@@ -1,0 +1,24 @@
+[submodule "as_accession_links"]
+	path = as_accession_links
+	url = https://github.com/hudmol/as_accession_links.git
+[submodule "as_prominent_resource_ids"]
+	path = as_prominent_resource_ids
+	url = https://github.com/hudmol/as_prominent_resource_ids.git
+[submodule "as_reformulator"]
+	path = as_reformulator
+	url = https://github.com/dullj/as_reformulator.git
+[submodule "timewalk"]
+	path = timewalk
+	url = https://github.com/alexduryee/timewalk.git
+[submodule "tns-aspace-theme"]
+	path = tns-aspace-theme
+	url = https://github.com/dullj/tns-aspace-theme.git
+[submodule "tns_as_columns"]
+	path = tns_as_columns
+	url = https://github.com/hudmol/tns_as_columns.git
+[submodule "tns_as_public"]
+	path = tns_as_public
+	url = https://github.com/hudmol/tns_as_public.git
+[submodule "digitization_work_order"]
+	path = digitization_work_order
+	url = https://github.com/hudmol/digitization_work_order.git
