@@ -22,3 +22,6 @@
 [submodule "digitization_work_order"]
 	path = digitization_work_order
 	url = https://github.com/hudmol/digitization_work_order.git
+[submodule "static_pages"]
+	path = static_pages
+	url = https://github.com/dullj/static_pages.git
