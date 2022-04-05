@@ -25,9 +25,6 @@
 [submodule "static_pages"]
 	path = static_pages
 	url = https://github.com/dullj/static_pages.git
-[submodule "as_spreadsheet_bulk_updater"]
-	path = as_spreadsheet_bulk_updater
-	url = https://github.com/hudmol/as_spreadsheet_bulk_updater.git
 [submodule "tns_as_note_defaults"]
 	path = tns_as_note_defaults
 	url = https://github.com/hudmol/tns_as_note_defaults.git
