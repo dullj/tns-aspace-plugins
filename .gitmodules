@@ -31,3 +31,6 @@
 [submodule "tns_as_note_defaults"]
 	path = tns_as_note_defaults
 	url = https://github.com/hudmol/tns_as_note_defaults.git
+[submodule "tns_as_staff"]
+	path = tns_as_staff
+	url = https://github.com/hudmol/tns_as_staff.git
