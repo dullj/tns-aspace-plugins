@@ -31,3 +31,6 @@
 [submodule "as_spreadsheet_bulk_updater"]
 	path = as_spreadsheet_bulk_updater
 	url = https://github.com/tnslibraries/as_spreadsheet_bulk_updater
+[submodule "tns_as_staff"]
+	path = tns_as_staff
+	url = https://github.com/hudmol/tns_as_staff.git
