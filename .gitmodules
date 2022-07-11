@@ -34,3 +34,6 @@
 [submodule "timewalk"]
 	path = timewalk
 	url = https://github.com/hudmol/timewalk.git
+[submodule "as_spreadsheet_bulk_updater"]
+	path = as_spreadsheet_bulk_updater
+	url = https://github.com/tnslibraries/as_spreadsheet_bulk_updater.git
