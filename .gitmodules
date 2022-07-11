@@ -7,9 +7,6 @@
 [submodule "as_reformulator"]
 	path = as_reformulator
 	url = https://github.com/dullj/as_reformulator.git
-[submodule "timewalk"]
-	path = timewalk
-	url = https://github.com/alexduryee/timewalk.git
 [submodule "tns-aspace-theme"]
 	path = tns-aspace-theme
 	url = https://github.com/dullj/tns-aspace-theme.git
@@ -34,3 +31,6 @@
 [submodule "tns_as_staff"]
 	path = tns_as_staff
 	url = https://github.com/hudmol/tns_as_staff.git
+[submodule "bulk_create_containers"]
+	path = bulk_create_containers
+	url = https://github.com/bentley-historical-library/bulk_create_containers.git
