@@ -10,9 +10,6 @@
 [submodule "tns-aspace-theme"]
 	path = tns-aspace-theme
 	url = https://github.com/dullj/tns-aspace-theme.git
-[submodule "tns_as_columns"]
-	path = tns_as_columns
-	url = https://github.com/hudmol/tns_as_columns.git
 [submodule "tns_as_public"]
 	path = tns_as_public
 	url = https://github.com/hudmol/tns_as_public.git
